@@ -1,0 +1,11 @@
+/home/unarix/Documentos/code/uProx/bin/Debug/netcoreapp2.1/uProx.deps.json
+/home/unarix/Documentos/code/uProx/bin/Debug/netcoreapp2.1/uProx.runtimeconfig.json
+/home/unarix/Documentos/code/uProx/bin/Debug/netcoreapp2.1/uProx.runtimeconfig.dev.json
+/home/unarix/Documentos/code/uProx/bin/Debug/netcoreapp2.1/uProx.dll
+/home/unarix/Documentos/code/uProx/bin/Debug/netcoreapp2.1/uProx.pdb
+/home/unarix/Documentos/code/uProx/obj/Debug/netcoreapp2.1/uProx.csprojAssemblyReference.cache
+/home/unarix/Documentos/code/uProx/obj/Debug/netcoreapp2.1/uProx.csproj.CoreCompileInputs.cache
+/home/unarix/Documentos/code/uProx/obj/Debug/netcoreapp2.1/uProx.AssemblyInfoInputs.cache
+/home/unarix/Documentos/code/uProx/obj/Debug/netcoreapp2.1/uProx.AssemblyInfo.cs
+/home/unarix/Documentos/code/uProx/obj/Debug/netcoreapp2.1/uProx.dll
+/home/unarix/Documentos/code/uProx/obj/Debug/netcoreapp2.1/uProx.pdb

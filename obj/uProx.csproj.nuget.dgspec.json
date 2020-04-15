@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/unarix/Documentos/code/uProx/uProx.csproj": {}
+  },
+  "projects": {
+    "/home/unarix/Documentos/code/uProx/uProx.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/unarix/Documentos/code/uProx/uProx.csproj",
+        "projectName": "uProx",
+        "projectPath": "/home/unarix/Documentos/code/uProx/uProx.csproj",
+        "packagesPath": "/home/unarix/.nuget/packages/",
+        "outputPath": "/home/unarix/Documentos/code/uProx/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/unarix/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "newtonsoft.json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
