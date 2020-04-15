@@ -10,7 +10,7 @@
 
  ### Important
  This can not be used to increase the visits in google analytics. The returned html respone its not interpreted by any browser 
-that is why the javascript code is not executed. If your purpose is this, i recommend you use Tor.
+that is why the javascript code is not executed. If your purpose is this, i recommend you use Tor (https://www.torproject.org/).
 
 ### Get a proxy list
 You can get a fresh proxy list in any site such as: https://free-proxy-list.net/, use a scraper to convert the list to the uProx format json.
