@@ -5,5 +5,8 @@
  open proxylist.json and add to the file all the proxies you want to test. Then run with the **dotnet run** command. 
  For each proxy it will respond with the html of the target url; otherwise, the operation error returns.
  
- ## Increase / test analitycs
- uProx can used to the same time increases the requests of a certain site and test if the analitycs are correctly configurated
+ ### Increase / test analitycs
+ uProx can used to the same time increases the requests of a certain site and test if the analytics are correctly configured.
+
+ ### Important
+ This can not be used to increase the visits in google analytics. The returned code its not interpreted or excecuted by the browser; only for testing purposes.
