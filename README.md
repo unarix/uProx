@@ -10,3 +10,6 @@
 
  ### Important
  This can not be used to increase the visits in google analytics. The returned code its not interpreted or excecuted by the browser; only for testing purposes.
+
+### Get a proxy list
+You can get a fresh proxy list in any site such as: https://free-proxy-list.net/, use a scrapper to convert the list to the uProx format json.
