@@ -1,9 +1,9 @@
 # uProx
- Check the correct operation of a list of proxies (proxylist.json). 
+ Allows to check the correct operation of a list of ip/port proxy's (proxylist.json). 
  
  ## Usage:
- Edit proxylist.json and add all the proxies you want to test. Then run with the **dotnet run** command. 
- For each proxy in the list it will respond with the html returned of the target url. Otherwise, the operation return an error.
+ Edit proxylist.json and add all the proxy's you want to test; Then run with the **dotnet run** command. 
+ For each proxy in the list it will respond with the html returned of the target url, otherwise, the operation return an error and checked as an invalid/banned proxy.
  
  ### Increase / test analytics
  uProx can be used to increases the requests of a certain url-site and test if the logs/analytics are correctly configured in the server; As it goes through a proxy, all calls will be interpreted as coming from different sources.
